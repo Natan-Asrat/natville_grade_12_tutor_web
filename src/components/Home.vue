@@ -3,10 +3,13 @@
     <div class="row">
       <!-- Hero Section (Left Column) -->
       <div class="col-md-6 d-flex flex-column justify-content-center">
-        <h1 class="display-4">Natville Tutor</h1>
-        <p class="lead">This is my gift to you all who mainly are joining campus as Freshman. I have covered Logic and Critical Thinking, Psychology, and Applied Mathematics One in my tutorials. Access the videos by downloading my app on play store below! Thank you!</p>
-        <a href="https://play.google.com/store/apps/details?id=com.emicasolutions.natvillegrade12tutor" target="_blank">
+        <h1 class="display-4">Natville Grade 12 Tutor</h1>
+        <p class="lead">I’m here to help grade 12 students with my Physics course, and more subjects are coming soon!<br> If you’re preparing for campus or need support, stay tuned for additional courses in other grade 12 subjects. Access my current tutorials by downloading the app below. Thank you!</p>
+        <a class="d-none" href="https://play.google.com/store/apps/details?id=com.emicasolutions.natvillefreshmantutor_inamharic" target="_blank">
           <img src="/play.png" alt="Download on Play Store" class="img-fluid mt-3" style="max-width: 50%;"/>
+        </a>
+        <a href="https://drive.google.com/file/d/1FYJtnMgwszX_Q_AWGkcNEZVWr3R2Ws0N/view?usp=sharing" target="_blank">
+          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;"/>
         </a>
       </div>
 
