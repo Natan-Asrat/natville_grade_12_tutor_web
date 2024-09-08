@@ -8,12 +8,9 @@
         <a class="d-none" href="https://play.google.com/store/apps/details?id=com.emicasolutions.natvillefreshmantutor_inamharic" target="_blank">
           <img src="/play.png" alt="Download on Play Store" class="img-fluid mt-3" style="max-width: 50%;"/>
         </a>
-        <a href="/natville_grade_12_tutor.apk" target="_blank" download onclick="showFallback('viewer')">
-          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;" />
+        <a href="https://drive.google.com/file/d/1v4LmVfWL2447F-Mtr99a888xFZN5g2gP/view?usp=sharing" target="_blank">
+          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;"/>
         </a>
-        <p id="fallback-viewer" class="fallback-message" style="display: none;">
-          If the download doesn't start, <a href="/natville_grade_12_tutor.apk" target="_blank">click here</a> to download Natville Grade 12 Tutor.
-        </p>
       </div>
 
       <!-- Screenshots Section (Right Column) -->
