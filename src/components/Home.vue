@@ -8,13 +8,28 @@
         <a class="d-none" href="https://play.google.com/store/apps/details?id=com.emicasolutions.natvillefreshmantutor_inamharic" target="_blank">
           <img src="/play.png" alt="Download on Play Store" class="img-fluid mt-3" style="max-width: 50%;"/>
         </a>
-        <a href="https://drive.google.com/file/d/1FYJtnMgwszX_Q_AWGkcNEZVWr3R2Ws0N/view?usp=sharing" target="_blank">
-          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;"/>
+        <a href="/natville_grade_12_tutor.apk" target="_blank" download onclick="showFallback('viewer')">
+          <img src="/download_apk.png" alt="Download APK" class="img-fluid mt-3" style="max-width: 50%;" />
         </a>
+        <p id="fallback-viewer" class="fallback-message" style="display: none;">
+          If the download doesn't start, <a href="/natville_grade_12_tutor.apk" target="_blank">click here</a> to download Natville Grade 12 Tutor.
+        </p>
       </div>
 
       <!-- Screenshots Section (Right Column) -->
       <div class="col-md-6">
+      <div class="row">
+          <div class="col-12 mb-4 justify-content-between screenshots">
+            <img src="/physics_list_mockup.png" alt="Screenshot 1" class="img-fluid screenshot screenshot-t"/>
+            <img src="/electronics_mockup.png" alt="Screenshot 2" class="img-fluid screenshot screenshot-b" />
+            <img src="/electromagnetism_mockup.png" alt="Screenshot 3" class="img-fluid screenshot screenshot-t"/>
+          </div>
+        </div>
+        <div class="row">
+        <div class="col-12 mb-4 justify-content-between screenshots">
+            <img src="/applications_mockup.png" alt="Screenshot 3" class="img-fluid screenshot-w screenshot-t"/>
+          </div>
+        </div>
       </div>
       
     </div>
